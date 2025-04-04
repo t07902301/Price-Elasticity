@@ -1,0 +1,5 @@
+*.zip
+*.xlsx
+mlartifacts
+mlruns
+*.csv
